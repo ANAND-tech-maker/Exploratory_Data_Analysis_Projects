@@ -50,13 +50,18 @@ These projects demonstrate my **data cleaning, analysis, and visualization skill
 - Visualizations (heatmap, bar chart, boxplot, etc.)  
 - **Folder:** `/Superstore_Sales_EDA/`
 
+✅ 2. **Electric Vehicle (EV) Population Analysis**
+- Analysis of battery electric vehicles (BEVs), plug-in hybrid electric vehicles (PHEVs), and total EVs
+- Top counties and state-wise EV penetration insights
+- Distribution and comparison using histograms, KDE plots, boxplots, and scatter plots
+- Interactive state-wise choropleth map for EV percentage
+- Folder: `/EV_Population_EDA/`
 ---
 
 ## 🔜 Upcoming Projects  
 (These will be added soon)
 
-- Titanic EDA  
-- House Price EDA  
+- Titanic EDA   
 - Zomato Restaurant EDA  
 - IPL Match Analysis  
 - Amazon Sales EDA  
