@@ -16,7 +16,7 @@ Each project includes:
 
 ---
 
-## 📌 Purpose of This Repository
+##  Purpose of This Repository
 
 The goal of these EDA projects is to:
 
