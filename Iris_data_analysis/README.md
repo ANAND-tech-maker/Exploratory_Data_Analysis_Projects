@@ -43,8 +43,7 @@ Models tested:
 - K-Nearest Neighbors  
 - Decision Tree  
 - Random Forest  
-- Support Vector Machine  
 
-**Best Model:** (Add your model name here)  
+**Best Model:** Logistic Regression  
 **Accuracy:** **100%**
 
