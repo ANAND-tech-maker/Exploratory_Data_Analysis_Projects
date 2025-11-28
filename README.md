@@ -41,33 +41,6 @@ These projects demonstrate my **data cleaning, analysis, and visualization skill
 
 ---
 
-## 📊 Completed Projects
-
-### ✅ **1. Superstore Sales Analysis**
-- Analysis of sales, profit, discount, and category performance  
-- Region-wise insights  
-- Time-based analysis  
-- Visualizations (heatmap, bar chart, boxplot, etc.)  
-- **Folder:** `/Superstore_Sales_EDA/`
-
-✅ 2. **Electric Vehicle (EV) Population Analysis**
-- Analysis of battery electric vehicles (BEVs), plug-in hybrid electric vehicles (PHEVs), and total EVs
-- Top counties and state-wise EV penetration insights
-- Distribution and comparison using histograms, KDE plots, boxplots, and scatter plots
-- Interactive state-wise choropleth map for EV percentage
-- Folder: `/EV_Population_EDA/`
----
-
-## 🔜 Upcoming Projects  
-(These will be added soon)
-
-- Titanic EDA   
-- Zomato Restaurant EDA  
-- IPL Match Analysis  
-- Amazon Sales EDA  
-
----
-
 ## 🎯 Skills Demonstrated
 
 Through these EDA projects, I practice and improve:
@@ -79,7 +52,10 @@ Through these EDA projects, I practice and improve:
 - Correlation Analysis  
 - Statistical Insights  
 - Visualization Techniques  
-- Business Problem Understanding  
+- Business Problem Understanding
+
+ 
+
 
 ---
 
